@@ -91,7 +91,7 @@ h4 {
     color: rgba(253, 149, 90, 0.8);
 }
 .highlight-purple {
-    color: blueviolet;
+    color: #7a288a;
 }
 .highlight-blue {
     color: #6ac4ff;
@@ -164,23 +164,10 @@ h4 {
     }
 }
 
-/* Seccion Mis Proyectos */
+/* Seccion CV */
 .CV {
     min-height: 500px;
     color: white;
-}
-
-.proyectos-contenedor {
-    margin-top: 50px;
-}
-
-.proyectos-contenedor img {
-    height: 100%;
-    width: 100%;
-    padding: 10px;
-    border-radius: 15px;
-    display: block;
-    transition: all 0.2s ease;
 }
 
 .overlay {
